@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Typescript" />
 <div>
 <ul>
-  <li>📫 How to reach me: You can reach me by mail <a href="mailto:dawid.lisicki2001@wp.pl">dawid.lisicki2001@wp.pl</a> or by discord username <b>skrixuu</b>b></li>
+  <li>📫 How to reach me: You can reach me by mail <a href="mailto:dawid.lisicki2001@wp.pl">dawid.lisicki2001@wp.pl</a> or by discord username <b>skrixuu</b></li>
 </ul>
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
