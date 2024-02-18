@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there it's a pleasure to see you here 👋
 
 - 🔭 I’m currently working on <b>Full Text Search App</b> connected with <b>Apache Lucene</b> search engine 
 - 🌱 I’m currently learning:
