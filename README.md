@@ -24,4 +24,4 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
 </div>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawid0117&theme=onedark)](https://github.com/dawid0117/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawid0117&theme=highcontrast)](https://github.com/dawid0117/github-readme-stats)
