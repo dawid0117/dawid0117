@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Full Text Search App connected with Apache Lucene engine
-- 🌱 I’m currently learning React/Next.js/TS
+- 🌱 I’m currently learning <a href="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
