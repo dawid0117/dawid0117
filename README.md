@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on <b>Full Text Search App</b> connected with <b style="font-size: 300px;">Lucene</b> engine 
+- 🔭 I’m currently working on <b>Full Text Search App</b> connected with <b style="font-size: 5rem;">Lucene</b> engine 
 - 🌱 I’m currently learning:
 <div>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
